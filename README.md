@@ -18,14 +18,12 @@
 ### Connect with me:
 
 <a href="https://www.facebook.com/gazi.rahad.5"><img align="left" alt="GR | Facebook"  target="_blank" src="https://img.icons8.com/color/48/000000/facebook-circled--v5.png"/></a>
-<a href="https://www.linkedin.com/in/gazi-rahad-1ab1b0191/"><img align="left" alt="GR | Linkedin"  target="_blank" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a>
-
-<a href="https://twitter.com/GaziRahad3"> <img align="left" alt="GR | Twitter"  target="_blank" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/gazi-rahad-1ab1b0191/"><img align="left" alt="GR | Linkedin"  target="_blank" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a><a href="https://twitter.com/GaziRahad3"> <img align="left" alt="GR | Twitter"  target="_blank" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="#"> <img align="left" alt="GR | Instagram"  target="_blank" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 
 
 <br />
-
+<br />
 <br />
 
 ### 🛠 &nbsp;Tech Stack
@@ -41,7 +39,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br />
-
+<br />
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
