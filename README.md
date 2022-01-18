@@ -1,6 +1,4 @@
-
-<h1 align="center">Hi <sup>👋 </sup> I'm Azizul Islam Rahad</h1>
-
+<h1 align="center">Hi <sup>👋</sup> I'm Azizul Islam Rahad</h1>
 <!-- <h3 align="center">Web developer from Bangladesh</h3> -->
 
 - 🔭 I’m currently working on **Web Development**
@@ -13,14 +11,11 @@
 
 -  ⚡ Fun fact **I am bengali**
 
-
-
 ### Connect with me:
 
 <a href="https://www.facebook.com/gazi.rahad.5"><img align="left" alt="GR | Facebook"  target="_blank" src="https://img.icons8.com/color/48/000000/facebook-circled--v5.png"/></a>
 <a href="https://www.linkedin.com/in/gazi-rahad-1ab1b0191/"><img align="left" alt="GR | Linkedin"  target="_blank" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a><a href="https://twitter.com/GaziRahad3"> <img align="left" alt="GR | Twitter"  target="_blank" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="#"> <img align="left" alt="GR | Instagram"  target="_blank" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
-
 
 <br />
 <br />
