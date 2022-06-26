@@ -51,5 +51,7 @@
 ### Github Stats 
 ![Gazi Rahad's GitHub stats](https://github-readme-stats-green-three.vercel.app/api?username=gazirahad7&count_private=true&theme=tokyonight)
 
+ ![](https://komarev.com/ghpvc/?username=gazirahad7&label=PROFILE+VIEWS)
+
 © 2022 GitHub, Inc.
 
