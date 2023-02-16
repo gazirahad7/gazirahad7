@@ -3,13 +3,10 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **PHP**
-
-- 💬 Ask me about **Anything**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **gazi.rahad871@gmail.com**
-
--  ⚡ Fun fact **I am bengali**
+- Know about my experiences <a href="#">My CV </a>
 
 ### Connect with me:
 
