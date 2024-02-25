@@ -14,10 +14,7 @@
     -->
 <br>
 <br>
-<div align="center">
 
-[Email Me](gazi.rahad871@gmail.com)
-</div>
 
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
